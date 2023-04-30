@@ -1,0 +1,33 @@
+*{
+  background-color: aqua;
+}
+
+h2{
+  background-color: rgb(20, 196, 64);
+  font-size:xx-large;
+  padding: 20px;
+  /* margin-left: center; */
+  /* align-items: center;
+  justify-content: center */
+}
+.App {
+  margin:auto;
+  margin-top: 30px;
+  width:60%;
+  height:auto;
+  padding: 20px;
+  box-shadow: 0 0 10px black;
+  background-color: blanchedalmond;
+
+}
+ 
+input{
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+button{
+  font-size: 15px;
+  background-color: rgb(223, 228, 153);
+}
+
+
